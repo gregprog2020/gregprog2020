@@ -1,4 +1,6 @@
 ## Olá! Seja Bem-Vindo(a)
+- 🔭 I’m currently working on C#, SQL, Stimulsoft, IIS
+- 🌱 I’m currently learning Angular, AWS
 <div> 
   
   <a href = "mailto:batista.anderson92@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -44,8 +46,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on C#, SQL, Stimulsoft, IIS
+- 🌱 I’m currently learning Angular, AWS
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
