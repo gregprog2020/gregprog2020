@@ -20,7 +20,8 @@
   <img align="center" alt="Greg-net" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="Greg-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Greg-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-   <Snake animation]("https://github.com/gregprog2020/gregprog2020/blob/output/github-contribution-grid-snake.svg")>
+    
+   ![Snake animation](https://github.com/gregprog2020/gregprog2020/blob/output/github-contribution-grid-snake.svg)
   
 
   
