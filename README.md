@@ -1,6 +1,6 @@
 ## Olá! Seja Bem-Vindo(a)
-- 🔭 I’m currently working on C#, SQL, Stimulsoft, IIS
-- 🌱 I’m currently learning Angular, AWS
+- 🔭 Atualmente trabalhando com C#, SQL, API REST;
+- 🌱 Estou estudando e me aprofundando em C#, SQL, Micro Serviços, Docker, RabbitMQ, APIs RESTful;
 <div> 
   
   <a href = "mailto:batista.anderson92@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
