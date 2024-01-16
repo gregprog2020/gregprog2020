@@ -1,6 +1,8 @@
-## Olá! Seja Bem-Vindo(a)
-- 🔭 Atualmente trabalhando com .Net, .Net Core, C#, SQL Server, Postgres, Desenvolvimento de API;
-- 🌱 Estou estudando e me aprofundando em C#, Micro Serviços, RabbitMQ, Angular, Arquitetura de Software;
+## Olá! Seja Bem-Vindo(a), sinta a vontade, para contribuir ou consultar algo.
+Estou aqui para aprender, e quem sabe ensinar algo haha, conte comigo.
+
+- 🔭 Atualmente trabalhando e praticando .Net, .Net Core, C#, T-SQL, buscando o desenvolvimento de APIs robustas, escaláveis e confiaveis, e tambem desenvolvendo algumas automações em Python;
+- 🌱 Estou estudando e me aprofundando em Serviços em Nuvem(AWS, Azure), Microserviços, RabbitMQ, Angular, Arquitetura de Software, bancos noSql e tambem estudando observabilidade;
 <div> 
   
   <a href = "mailto:batista.anderson92@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
